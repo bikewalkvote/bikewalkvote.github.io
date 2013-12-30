@@ -4,7 +4,7 @@
 # TEAM
   Designer: Jeff Jacobson-Swartfager
   Twitter: @changecase
-  
+
   Developer: Peter W
   Twitter: @techieshark
 
@@ -13,8 +13,9 @@
 
 # TECHNOLOGY COLOPHON
   Standards: HTML5, CSS3
-  Components: Modernizr, jQuery
+  Components: HTML5 Boilerplate, Modernizr, jQuery
   Software: Frank (https://github.com/blahed/frank)
+  HTML to Markdown: https://github.com/aaronsw/html2text / http://www.aaronsw.com/2002/html2text/
 
 
 
