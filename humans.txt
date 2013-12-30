@@ -1,0 +1,43 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+  Designer: Jeff Jacobson-Swartfager
+  Twitter: @changecase
+  
+  Developer: Peter W
+  Twitter: @techieshark
+
+# THANKS
+  For others involved with BWV, see http://bikewalkvote.org
+
+# TECHNOLOGY COLOPHON
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery
+  Software: Frank (https://github.com/blahed/frank)
+
+
+
+                               -o/-
+                               +oo//-
+                              :ooo+//:
+                             -ooooo///-
+                             /oooooo//:
+                            :ooooooo+//-
+                           -+oooooooo///-
+           -://////////////+oooooooooo++////////////::
+            :+ooooooooooooooooooooooooooooooooooooo+:::-
+              -/+ooooooooooooooooooooooooooooooo+/::////:-
+                -:+oooooooooooooooooooooooooooo/::///////:-
+                  --/+ooooooooooooooooooooo+::://////:-
+                     -:+ooooooooooooooooo+:://////:--
+                       /ooooooooooooooooo+//////:-
+                      -ooooooooooooooooooo////-
+                      /ooooooooo+oooooooooo//:
+                     :ooooooo+/::/+oooooooo+//-
+                    -oooooo/::///////+oooooo///-
+                    /ooo+::://////:---:/+oooo//:
+                   -o+/::///////:-      -:/+o+//-
+                   :-:///////:-            -:/://
+                     -////:-                 --//:
+                       --                       -:
