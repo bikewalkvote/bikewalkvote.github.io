@@ -25,13 +25,13 @@ body #container {
 }
 body #container header {
   position: relative;
-  background: transparent url('../../images/theme/cardboard_darkGreen.png') repeat-x -491px -111px;
+  background: transparent url('../../images/theme/cardboard_darkGreen.jpg') repeat-x -491px -111px;
   padding-bottom: 50px;
 }
 body #container header #logo {
   position: relative;
   margin: 0;
-  background: #8dc63f url('../../images/theme/cardboard_green.png') repeat 0em;
+  background: #8dc63f url('../../images/theme/cardboard_green.jpg') repeat 0em;
 }
 body #container header #logo a {
   display: block;
@@ -793,7 +793,7 @@ body #container footer {
   bottom: 0;
   clear: both;
   float: left;
-  background: #8dc63f url('../../images/theme/cardboard_green.png') repeat 0em;
+  background: #8dc63f url('../../images/theme/cardboard_green.jpg') repeat 0em;
   width: 100%;
   height: 5em;
 }
