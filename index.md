@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+published: true
 ---
 
 **Bike Walk Vote PAC** is the political voice for Oregonians who bike, walk, or take transit. We work to elect candidates who will best support transportation choices and livable communities.
@@ -10,7 +11,7 @@ title: Home
 
 The future of transportation is active and public: costing less to create and care for, improving quality of life, reducing health related expenses, and positively benefiting local business.
 
-We envision an urban form that enables stress free active travel through and between our communities. Where the transportation infrastructure is enjoyable to use, accessible to all ages and meets the needs of people from all walks of life.
+We envision vibrant urban places that enable stress-free active travel through and between our communities. Where the transportation infrastructure is enjoyable to use, accessible to all ages and meets the needs of people from all walks of life.
 
 
 ## Contribute
