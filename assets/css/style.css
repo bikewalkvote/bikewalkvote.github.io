@@ -712,7 +712,7 @@ body #container #content form label input p {
 body #container #content form h3 input[type=submit],
 body #container #content form fieldset input[type=submit],
 body #container #content form label input[type=submit] {
-  background: #8dc63f url('../../images/theme/cardboard_green.png') repeat 0em;
+  background: #8dc63f url('../../images/theme/cardboard_green.jpg') repeat 0em;
   border-bottom: 2px solid #27a41d;
   border-left: 2px solid #27a41d;
   border-right: 2px solid #b6d986;
