@@ -3,6 +3,7 @@ layout: default
 title: about
 description: About Bike Walk Vote
 author: Bike Walk Vote PAC
+published: true
 ---
 
 ## About Us
@@ -25,42 +26,44 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 
 <ul id="steering">
 <li>
-  <h4>Beth Flanagan</h4>
-  <p>Beth has a passion for design and legs of steel.  Seriously, if Bike Walk Vote had a cyclocross team, we'd make her our Captain.  When not racing or working with us, you can find her helping out at groups like OLCV and 1000 Friends of Oregon.</p>
+  <h4>Lisa Marie White </h4>
+  <p> _Co-Chair_ </p>
+  <p> An RN with backgrounds in Journalism, Public Relations, Fundraising, and Marketing, community engagment and activation are Lisa’s forte. A bike, pedestrian, transit, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities while expanding equity.
+     Outside of BWV, you can find Lisa over-volunteering at a plethora of local non-profits, attending forums and public hearings, enjoying the Oregon wilderness, or inside absorbing one of three books on constant rotation.</p>
+</li>
+<li>
+<h4> Paul Comery </h4>
+<p> _Co-Chair_ </p>
+<p> STUFF ABOUT PAUL </p>
+</li>
+<li>
+  <h4>Tara Gallagher</h4>
+  <p>Tara moved to Portland in 2007 and immediately bought a bicycle. While attending law school at Lewis & Clark, she became a transportation advocate fighting for better and safer routes up the west hills. She looks forward to the day when biking is the norm and every kid has a safe route to school.</p>
 </li>
 <li>
   <h4>Charlie Burr</h4>
   <p>Charlie is a communications consultant and veteran of numerous political campaigns. He lives in northeast Portland, where he can be frequently seen hauling his daughter Marigny around town via cargo bike. In addition to his involvement with Bike Walk Vote, Charlie serves as chair of OLCV's political action committee, helping to elect environmental champions around the state.</p>
 </li>
 <li>
-  <h4>Jeff Jacobson-Swartfager</h4>
-  <p>Jeff is the head of Press at an education and consultant company in Vancouver, WA. He also works as a freelance graphic designer.
-     Jeff loves his wife and his bike.
-     His mustache tickles.</p>
-</li>
-<li>
   <h4>Jodi Jacobson-Swartfager</h4>
   <p>A Spokane native, Jodi moved to Portland in 2000 and immediately fell in love with Portland's bike scene.
       She's currently enrolled in Portland State University's Masters of Urban and Regional Planning program.
-      She can't wait to see the world covered with bike lanes.
+      She can't wait to see the world covered with bike lanes.</p>
 </li>
 <li>
-  <h4>Lisa Marie White</h4>
-  <p> A bike, pedestrian, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities and helps people experience their neighborhood.
-     With a background in Nursing, Public Relations, and Marketing, outreach and connecting with people is Lisa’s forte. So is conquering crazy hills and crushing century rides.
-     Outside of BWV, you can find Lisa on the streets or in the woods being active, or inside absorbing one of three books on constant rotation.</p>
+<h4> Scott Lieuallen </h4>
+<p> STUFF ABOUT SCOTT </p>
 </li>
 <li>
-  <h4>Peter Welte</h4>
-  <p> Peter loves bike touring and backpacking, but has just as much fun organizing for better walking and biking environments.
-     Outside of BWV, Peter enjoys web development and working on Open Source projects.
-     Peter's goal is for Bike Walk Vote to go global within 5 years.</p>
+  <h4>Nick Stack</h4>
+  <p>STUFF ABOUT NICK</p>
 </li>
 <li>
-  <h4>Tara Gallagher</h4>
-  <p>Tara moved to Portland in 2007 and immediately bought a bicycle. While attending law school at Lewis & Clark, she became a transportation advocate fighting for better and safer routes up the west hills. She looks forward to the day when biking is the norm and every kid has a safe route to school.</p>
+  <h4>Beth Flanagan</h4>
+  <p>Beth has a passion for design and legs of steel.  Seriously, if Bike Walk Vote had a cyclocross team, we'd make her our Captain.  When not racing or working with us, you can find her helping out at groups like OLCV and 1000 Friends of Oregon.</p>
 </li>
-</ul>
+<li>
+
 
 ### The Questionnaire
 
