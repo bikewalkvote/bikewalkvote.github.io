@@ -33,7 +33,7 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 </li>
 <li>
 <h4> Paul Comery </h4>
-<p> _Co-Chair_ </p>
+  <p> _Co-Chair_ </p>
 <p> STUFF ABOUT PAUL </p>
 </li>
 <li>
