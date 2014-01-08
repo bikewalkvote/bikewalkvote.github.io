@@ -34,7 +34,7 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 <li>
 <h4> Paul Comery </h4>
   <p> _Co-Chair_ </p>
-<p> STUFF ABOUT PAUL </p>
+<p> Paul became a bike commuter when he started biking to school in North East Portland in the third grade and has never looked back. A graduate from Portland State University's Community Development program, he wants to work to create a city wherein all people can accomplish their daily needs without needing to use a car. His favorite place to ride his bike in the summertime is along the Columbia River. </p>
 </li>
 <li>
   <h4>Tara Gallagher</h4>
