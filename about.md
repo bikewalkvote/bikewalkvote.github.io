@@ -52,7 +52,7 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 </li>
 <li>
 <h4> Scott Lieuallen </h4>
-<p> STUFF ABOUT SCOTT </p>
+<p> Scott has been riding bikes since he was 4 and considers them almost magical. Working with Peter Welte and Evan Manvel, he helped revive the Bike Walk Vote PAC that Evan first started several years ago. "I want to keep working toward a future where riding a bike and walking are safe and convenient options for people of all ages no matter where they live." </p>
 </li>
 <li>
   <h4>Nick Stack</h4>
