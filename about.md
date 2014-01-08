@@ -37,6 +37,10 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 <p> Paul became a bike commuter when he started biking to school in North East Portland in the third grade and has never looked back. A graduate from Portland State University's Community Development program, he wants to work to create a city wherein all people can accomplish their daily needs without needing to use a car. His favorite place to ride his bike in the summertime is along the Columbia River. </p>
 </li>
 <li>
+<h4> Scott Lieuallen </h4>
+<p> Scott has been riding bikes since he was 4 and considers them almost magical. Working with Peter Welte and Evan Manvel, he helped revive the Bike Walk Vote PAC that Evan first started several years ago. "I want to keep working toward a future where riding a bike and walking are safe and convenient options for people of all ages no matter where they live." </p>
+</li>
+<li>
   <h4>Tara Gallagher</h4>
   <p>Tara moved to Portland in 2007 and immediately bought a bicycle. While attending law school at Lewis & Clark, she became a transportation advocate fighting for better and safer routes up the west hills. She looks forward to the day when biking is the norm and every kid has a safe route to school.</p>
 </li>
@@ -49,10 +53,6 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
   <p>A Spokane native, Jodi moved to Portland in 2000 and immediately fell in love with Portland's bike scene.
       She's currently enrolled in Portland State University's Masters of Urban and Regional Planning program.
       She can't wait to see the world covered with bike lanes.</p>
-</li>
-<li>
-<h4> Scott Lieuallen </h4>
-<p> Scott has been riding bikes since he was 4 and considers them almost magical. Working with Peter Welte and Evan Manvel, he helped revive the Bike Walk Vote PAC that Evan first started several years ago. "I want to keep working toward a future where riding a bike and walking are safe and convenient options for people of all ages no matter where they live." </p>
 </li>
 <li>
   <h4>Nick Stack</h4>
