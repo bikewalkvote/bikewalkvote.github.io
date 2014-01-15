@@ -56,7 +56,7 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 </li>
 <li>
   <h4>Nick Stack</h4>
-  <p>STUFF ABOUT NICK</p>
+  <p>Nick is a lawyer and lover of active transit, livable cities, and animals. When he isn't writing legislation for animal rights, he's loving local poetry slams.</p>
 </li>
 <li>
   <h4>Beth Flanagan</h4>
