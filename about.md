@@ -56,13 +56,10 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 </li>
 <li>
   <h4>Nick Stack</h4>
-  <p>Nick is a lawyer and lover of active transit, livable cities, and animals. When he isn't writing legislation for animal rights, he's loving local poetry slams.</p>
+  <p> Nick moved to Portland in 2009 to attend law school and fell in love with the myriad transportation options. He has actively campaigned for more active transit in the Portland area. Nick currently works in the field of political consulting. When he isn’t working on political issues, Nick volunteers for animal causes.</p>
 </li>
 <li>
-  <h4>Beth Flanagan</h4>
-  <p>Beth has a passion for design and legs of steel.  Seriously, if Bike Walk Vote had a cyclocross team, we'd make her our Captain.  When not racing or working with us, you can find her helping out at groups like OLCV and 1000 Friends of Oregon.</p>
-</li>
-<li>
+
 
 
 ### The Questionnaire
