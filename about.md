@@ -58,7 +58,7 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
   <h4>Nick Stack</h4>
   <p> Nick moved to Portland in 2009 to attend law school and fell in love with the myriad transportation options. He has actively campaigned for more active transit in the Portland area. Nick currently works in the field of political consulting. When he isn’t working on political issues, Nick volunteers for animal causes.</p>
 </li>
-<li>
+</ul>
 
 
 
