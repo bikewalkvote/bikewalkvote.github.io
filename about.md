@@ -45,10 +45,6 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
   <p>Tara moved to Portland in 2007 and immediately bought a bicycle. While attending law school at Lewis & Clark, she became a transportation advocate fighting for better and safer routes up the west hills. She looks forward to the day when biking is the norm and every kid has a safe route to school.</p>
 </li>
 <li>
-  <h4>Charlie Burr</h4>
-  <p>Charlie is a communications consultant and veteran of numerous political campaigns. He lives in northeast Portland, where he can be frequently seen hauling his daughter Marigny around town via cargo bike. In addition to his involvement with Bike Walk Vote, Charlie serves as chair of OLCV's political action committee, helping to elect environmental champions around the state.</p>
-</li>
-<li>
   <h4>Jodi Jacobson-Swartfager</h4>
   <p>A Spokane native, Jodi moved to Portland in 2000 and immediately fell in love with Portland's bike scene.
       She's currently enrolled in Portland State University's Masters of Urban and Regional Planning program.
