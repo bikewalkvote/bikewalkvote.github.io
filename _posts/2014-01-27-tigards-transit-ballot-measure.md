@@ -1,3 +1,10 @@
+---
+layout: post
+title: Tigard's Transit Ballot Measure
+categories: update
+tags:
+---
+
 > "Injustice anywhere is a threat to justice everywhere." -MLK Jr.
 
 Election season 2014 has begin, and the most pressing threat to a livable Oregon (beyond the CRC)? An anti-transit ballot measure in Tigard that seriously threatens commuting options for Tigard and connections throughout the region. 
