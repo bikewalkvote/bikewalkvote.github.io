@@ -11,7 +11,7 @@ Election season 2014 has begin, and the most pressing threat to a livable Oregon
 
 It's being voted on in March, with ballots out February 21st.
 
-WE NEED YOUR HELP TO GET THE WORD OUT! The opposition is relying on lack of turn-out. We're phone banking Thursday evening, 2/20. If you want to help out (out of your belief in livable streets for all, OR your love of free pizza!) shoot us an e-mail at BikeWalkVote@gmail.com and we'll get you the details.
+__We need your help to get the word out!__ The opposition is relying on lack of turn-out. We're phone banking Thursday evening, 2/20. If you want to help out (out of your belief in livable streets for all, OR your love of free pizza!) shoot us an e-mail at BikeWalkVote@gmail.com and we'll get you the details.
 
 You can read more about the measure at [stopcongestion.org](http://stopcongestion.org/ "Stop Congestion Campaign Page") and in [this overview (PDF)](http://nebula.wsimg.com/c7e5a00fb92fd4ef2c9ebf3542c1be81?AccessKeyId=5C462A2E40A747A2CB52&disposition=0&alloworigin=1), which is summarized below.
 
