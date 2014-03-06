@@ -1,3 +1,11 @@
+---
+layout: default
+title: Contribute
+description: Support Bike Walk Vote
+author: Bike Walk Vote PAC
+published: true
+---
+
 ## Contribute!
 
 Campaigns run on two fuels: money and volunteers.
