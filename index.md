@@ -15,33 +15,19 @@ The future of transportation is active and public: costing less to create and ca
 
 We envision vibrant urban places that enable stress-free active travel through and between our communities. Where the transportation infrastructure is enjoyable to use, accessible to all ages and meets the needs of people from all walks of life.
 
-
-
-## Stay Informed
-
-Like us on <a href="https://www.facebook.com/bikewalkvote" title="Bike Walk Vote on Facebook">Facebook</a>, follow us on <a href="https://twitter.com/#!/bikewalkvote">Twitter</a>, and sign up to get the occasional news & volunteer opportunities.
-
-
-## Contribute
-
-Elections require money to reach voters. We need your help to get our message out and to help elect the candidates who will best support transportation choices.
-
-In Oregon, the first $50 per individual and $100 per couple is eligible for <a href="http://oregontaxcredit.com">Oregon’s political tax credit</a> – meaning each dollar you give comes back to you at tax time. Donations to Bike Walk Vote PAC qualify for this credit.
-
-<a href="/contribute.html">Contribute today.</a>
-
-
-## Get Involved
-
-Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything we do depends on people like yourself volunteering: everything from knocking on doors and making phone calls to organizing events and lobbying legislators. If you're interested in helping, contact us at [team@bikewalkvote.org](mailto:team@bikewalkvote.org?subject=volunteer).
-
-## Bike Walk Talk
+## Bike Walk Talk: Updates & News
 
 <ul class="posts">
 {% for post in site.posts %}
   <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
+
+
+
+## Stay Informed
+
+Like us on <a href="https://www.facebook.com/bikewalkvote" title="Bike Walk Vote on Facebook">Facebook</a>, follow us on <a href="https://twitter.com/#!/bikewalkvote">Twitter</a>, and sign up to get the occasional news & volunteer opportunities.
 
 <!-- Begin MailChimp Signup Form -->
 <div id='mc_embed_signup'>
@@ -59,4 +45,20 @@ Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything w
 </form>
 </div>
 <!-- End mc_embed_signup -->
+
+
+## Contribute
+
+Elections require money to reach voters. We need your help to get our message out and to help elect the candidates who will best support transportation choices.
+
+In Oregon, the first $50 per individual and $100 per couple is eligible for <a href="http://oregontaxcredit.com">Oregon’s political tax credit</a> – meaning each dollar you give comes back to you at tax time. Donations to Bike Walk Vote PAC qualify for this credit.
+
+<a href="/contribute.html">Contribute today.</a>
+
+
+## Get Involved
+
+Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything we do depends on people like yourself volunteering: everything from knocking on doors and making phone calls to organizing events and lobbying legislators. If you're interested in helping, contact us at [team@bikewalkvote.org](mailto:team@bikewalkvote.org?subject=volunteer).
+
+
 
