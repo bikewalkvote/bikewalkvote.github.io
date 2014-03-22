@@ -15,11 +15,7 @@ In order to create the safe, equitable, and efficient transportation system Oreg
 ## Endorsements, Round 1
 
 * Portland City Council Position #2: NICK FISH 
-
 * Washington County Commissioner District #2: GREG MALINOWSKI
-
 * Multnomah County Chair: DEBORAH KAFOURY
-
 * Oregon House District 45: TOM SINCIC
-
 * Oregon House District 42: TEDDY KEIZER
