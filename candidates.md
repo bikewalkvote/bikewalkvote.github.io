@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Candidates
+title: Endorsements 2014
 ---
 
-## Candidates
+## Candidates & 2014 Endorsements
 
 As part of our endorsement process we asked the candidates to
 fill out a written questionaire. Here is how they responded.
