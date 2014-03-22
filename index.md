@@ -58,7 +58,7 @@ In Oregon, the first $50 per individual and $100 per couple is eligible for <a h
 
 ## Get Involved
 
-Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything we do depends on people like yourself volunteering: everything from knocking on doors and making phone calls to organizing events and lobbying legislators. If you're interested in helping, contact us at [team@bikewalkvote.org](mailto:team@bikewalkvote.org?subject=volunteer).
+Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything we do depends on people like yourself volunteering: everything from knocking on doors and making phone calls to organizing events and lobbying legislators. If you're interested in helping, contact us at [bikewalkvote@gmail.com](mailto:bikewalkvote@gmail.com?subject=volunteer).
 
 
 
