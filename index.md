@@ -7,11 +7,19 @@ published: true
 **Bike Walk Vote PAC** is the political voice for Oregonians who bike, walk, or take transit. We work to elect candidates who will best support transportation choices and livable communities.
 
 
+
+
 ## Vision
 
 The future of transportation is active and public: costing less to create and care for, improving quality of life, reducing health related expenses, and positively benefiting local business.
 
 We envision vibrant urban places that enable stress-free active travel through and between our communities. Where the transportation infrastructure is enjoyable to use, accessible to all ages and meets the needs of people from all walks of life.
+
+
+
+## Stay Informed
+
+Like us on <a href="https://www.facebook.com/bikewalkvote" title="Bike Walk Vote on Facebook">Facebook</a>, follow us on <a href="https://twitter.com/#!/bikewalkvote">Twitter</a>, and sign up to get the occasional news & volunteer opportunities.
 
 
 ## Contribute
@@ -22,6 +30,11 @@ In Oregon, the first $50 per individual and $100 per couple is eligible for <a h
 
 <a href="/contribute.html">Contribute today.</a>
 
+
+## Get Involved
+
+Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything we do depends on people like yourself volunteering: everything from knocking on doors and making phone calls to organizing events and lobbying legislators. If you're interested in helping, contact us at [team@bikewalkvote.org](mailto:team@bikewalkvote.org?subject=volunteer).
+
 ## Bike Walk Talk
 
 <ul class="posts">
@@ -29,12 +42,6 @@ In Oregon, the first $50 per individual and $100 per couple is eligible for <a h
   <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
-
-
-## Stay Informed
-
-Like us on <a href="https://www.facebook.com/bikewalkvote" title="Bike Walk Vote on Facebook">Facebook</a>, follow us on <a href="https://twitter.com/#!/bikewalkvote">Twitter</a>, and sign up to get the occasional news & volunteer opportunities.
-
 
 <!-- Begin MailChimp Signup Form -->
 <div id='mc_embed_signup'>
@@ -53,12 +60,3 @@ Like us on <a href="https://www.facebook.com/bikewalkvote" title="Bike Walk Vote
 </div>
 <!-- End mc_embed_signup -->
 
-
-## Volunteer
-
-Bike Walk Vote is a 100% grassroots, volunteer-driven organization. Everything we do depends on people like yourself volunteering: everything from knocking on doors and making phone calls to organizing events and lobbying legislators. If you're interested in helping, contact us at [team@bikewalkvote.org](mailto:team@bikewalkvote.org?subject=volunteer).
-
-
-## Our Endorsement Process
-
-Bike Walk Vote PAC makes its endorsements based on answers to written questionnaires, a review of public documents and forums, and at times oral interviews.
