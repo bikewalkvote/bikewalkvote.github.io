@@ -9,7 +9,7 @@ As part of our endorsement process we asked the candidates to
 fill out a written questionaire. Here is how they responded.
 
 ### portland city council: position 2
-* [Nick Fish](/candidates/2014/portland-city-council-position-2/nick-fish.pdf
+* [Nick Fish](/candidates/2014/portland-city-council-position-2/nick-fish.pdf)
 
 ### washington county commissioner: district 2
 * [Greg Malinowski](/candidates/2014/washington-county-commissioner-district-2/greg-malinowski.pdf)
