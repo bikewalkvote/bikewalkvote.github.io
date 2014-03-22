@@ -8,6 +8,25 @@ title: Endorsements 2014
 As part of our endorsement process we asked the candidates to
 fill out a written questionaire. Here is how they responded.
 
+### portland city council: position 2
+* [Nick Fish](/candidates/2014/portland-city-council-position-2/nick-fish.pdf
+
+### washington county commissioner: district 2
+* [Greg Malinowski](/candidates/2014/washington-county-commissioner-district-2/greg-malinowski.pdf)
+
+### multnomah county chair
+
+* [Deborah Kafoury](/candidates/2014/multnomah-county-chair/deborah-kafoury.pdf)
+
+### oregon house district 45
+
+* [Tom Sincic](/candidates/2014/oregon-legislature-house-district-45/tom-sincic.pdf)
+
+### oregon house district 42
+
+* [Teddy Keizer](/candidates/2014/oregon-legislature-house-district-42/teddy-keizer.pdf)
+
+## Archive: 2012
 ### portland mayoral democratic primary
 
   * [Jefferson Smith](/candidates/mayor/jefferson-smith.html)
