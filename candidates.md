@@ -12,13 +12,16 @@ fill out a written questionaire. Here is how they responded.
 * [Nick Fish](/candidates/2014/portland-city-council-position-2/nick-fish.pdf)
 
 ### portland city council: position 3
-* [Nick Caleb] (candidates/2014/portland-city-council-position-3/nick-caleb.pdf)
+* [Nick Caleb](candidates/2014/portland-city-council-position-3/nick-caleb.pdf)
+
+### oregon senate district 13
+* [Ryan Howard](candidates/2014/oregon-state-legislature-senate-district-13/ryan-howard.pdf)
 
 ### washington county commissioner: district 2
 * [Greg Malinowski](/candidates/2014/washington-county-commissioner-district-2/greg-malinowski.pdf)
 
 ### washington county commissioner: district 4
-* [elizabeth furse] (
+* [Elizabeth Furse]
 
 ### multnomah county chair
 
