@@ -5,6 +5,7 @@ title: Endorsements 2014
 
 ## Candidates & 2014 Endorsements
 
+Below is the full list of our 2014 endorsements.
 As part of our endorsement process we asked the candidates to
 fill out a written questionaire. Here is how they responded.
 
@@ -39,59 +40,6 @@ fill out a written questionaire. Here is how they responded.
 
 
 
-
-## Archive: 2012
-### portland mayoral democratic primary
-
-  * [Jefferson Smith](/candidates/mayor/jefferson-smith.html)
-  * [Charlie Hales](/candidates/mayor/charlie-hales.html)
-  * [Eileen Brady](/candidates/mayor/eileen-brady.html)
-
-### portland city council: position 1
-
-  * [Mary Nolan](/candidates/portland-city-council-position-1/mary-nolan.html)
-  * [Amanda Fritz](/candidates/portland-city-council-position-1/amanda-fritz.html)
-
-### portland city council: position 4
-
-  * [Steve Novick](/candidates/portland-city-council-position-4/steve-novick.html)
-
-### metro council: seat 3
-
-  * [Craig Dirksen](/candidates/metro-council-seat-3/craig-dirksen.html)
-
-### metro council: seat 5
-
-  * [Sam Chase](/candidates/metro-council-seat-5/sam-chase.html)
-  * [Brad Perkins](/candidates/metro-council-seat-5/brad-perkins.html)
-  * [Helen Ying](/candidates/metro-council-seat-5/helen-ying.html)
-
-### metro council: seat 6
-
-  * [Bob Stacey](/candidates/metro-council-seat-6/bob-stacey.html)
-
-### washington county commissioner: district 1
-
-  * [Dick Schouten](/candidates/washington-county-commissioner-district-1/dick-schouten.html)
-
-### oregon state legislature: house district 36
-
-  * [Sharon Meieran](/candidates/oregon-state-legislature-house-district-36/sharon-meieran.html)
-  * [Bruce Neal](/candidates/oregon-state-legislature-house-district-36/bruce-neal.html)
-  * [Jennifer Williamson](/candidates/oregon-state-legislature-house-district-36/jennifer-williamson.html)
-
-### oregon state legislature: house district 46
-
-  * [Alissa Keny-Guyer](/candidates/oregon-state-legislature-house-district-46/alissa-keny-guyer.html)
-
-### oregon state legislature: house district 47
-
-  * [Jessica Vega Pederson](/candidates/oregon-state-legislature-house-district-47/jessica-vega-pederson.html)
-  * [Thuy Tran](/candidates/oregon-state-legislature-house-district-47/thuy-tran.html)
-
-### oregon state legislature: house district 48
-
-  * [Jeff Reardon](/candidates/oregon-state-legislature-house-district-48/jeff-reardon.html)
 
 ## Our Endorsement Process
 
