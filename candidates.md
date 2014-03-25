@@ -21,7 +21,7 @@ fill out a written questionaire. Here is how they responded.
 * [Greg Malinowski](/candidates/2014/washington-county-commissioner-district-2/greg-malinowski.pdf)
 
 ### washington county commissioner: district 4
-* [Elizabeth Furse]
+* Elizabeth Furse
 
 ### multnomah county chair
 
