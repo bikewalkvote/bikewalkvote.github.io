@@ -13,5 +13,5 @@ The Portland Street Fee discussion continues, and Bike Walk Vote has officially 
 Bike Walk Vote, The BTA, Coalition for a Livable Future, Oregon Walks, and many others all agree - progressive fee distribution and greater spending on safety is the best way to raise funds our community streets desperately need.
 
 ### The Letter
-https://cloud.githubusercontent.com/assets/6327157/5599019/de7a7f3a-9274-11e4-909c-ec704b8da8bd.jpeg
+https://drive.google.com/file/d/0B0sRhm2iHQ8wYlhMS3RrYTJTOXlKUllLbzBmbWt2M3NJc1VF/view
 
