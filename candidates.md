@@ -2,7 +2,7 @@
 layout: default
 title: Endorsements 2014
 ---
-Check back here for Bike Walk Vote's endorsements during election season!
+Check back here each election season for Bike Walk Vote's endorsements!
 
 ## Our Endorsement Process
 
