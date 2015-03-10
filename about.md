@@ -34,11 +34,10 @@ We're anchored, organized, and run by our steering committee chair, with endorse
 
 ## Steering Committee Members At Large
 <li>
- <h4> Scott Lieuallen </h4>
- <h4> Tara Gallagher </h4>
- <h4> Sarah Steinberg </h4>
- <h4> Ruth Christiansen </h4>
- <h4> Jeffery Moore </h4>
+ <p> Scott Lieuallen </p>
+ <p> Tara Gallagher </p>
+ <p> Jodi Jacobsen Swartzfager </p>
+ <p> Beth Flanagan </p>
 </li>
 
 
