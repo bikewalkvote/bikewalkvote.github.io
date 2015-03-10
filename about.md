@@ -29,7 +29,7 @@ We're anchored, organized, and run by our steering committee chair, with endorse
   <h4>Lisa Marie White </h4>
   <p> Chair </p>
   <p> Community engagment and activation are Lisa’s forte. A bike, pedestrian, transit, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities, expands equity, and improves safety for all road users.
-     Outside of BWV, you can find Lisa over-volunteering at a plethora of local non-profits, attending forums and public hearings, enjoying the Oregon wilderness, or inside absorbing one of three books on constant rotation.</p>
+     Outside of BWV, you can find Lisa enjoying the Oregon wilderness, studying connections between the built environment and health, or inside absorbing one of three books on constant rotation.</p>
 </li>
 
 <h4> Board Members At Large </h4>
