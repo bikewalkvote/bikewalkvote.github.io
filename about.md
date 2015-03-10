@@ -27,14 +27,9 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
 <ul id="steering">
 <li>
   <h4>Lisa Marie White </h4>
-  <p> _Co-Chair_ </p>
+  <p> _Chair_ </p>
   <p> An RN with backgrounds in Journalism, Public Relations, Fundraising, and Marketing, community engagment and activation are Lisa’s forte. A bike, pedestrian, transit, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities while expanding equity.
      Outside of BWV, you can find Lisa over-volunteering at a plethora of local non-profits, attending forums and public hearings, enjoying the Oregon wilderness, or inside absorbing one of three books on constant rotation.</p>
-</li>
-<li>
-<h4> Paul Comery </h4>
-  <p> _Co-Chair_ </p>
-<p> Paul became a bike commuter when he started biking to school in North East Portland in the third grade and has never looked back. A graduate from Portland State University's Community Development program, he wants to work to create a city wherein all people can accomplish their daily needs without needing to use a car. His favorite place to ride his bike in the summertime is along the Columbia River. </p>
 </li>
 <li>
 <h4> Scott Lieuallen </h4>
@@ -49,10 +44,6 @@ Bike Walk Vote is run by a volunteer steering committee representing a cross-sec
   <p>A Spokane native, Jodi moved to Portland in 2000 and immediately fell in love with Portland's bike scene.
       She's currently enrolled in Portland State University's Masters of Urban and Regional Planning program.
       She can't wait to see the world covered with bike lanes.</p>
-</li>
-<li>
-  <h4>Nick Stack</h4>
-  <p> Nick moved to Portland in 2009 to attend law school and fell in love with the myriad transportation options. He has actively campaigned for more active transit in the Portland area. Nick currently works in the field of political consulting. When he isn’t working on political issues, Nick volunteers for animal causes.</p>
 </li>
 <li>
 <h4> Beth Flanagan </h4>
