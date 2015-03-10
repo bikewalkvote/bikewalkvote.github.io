@@ -33,12 +33,11 @@ We're anchored, organized, and run by our steering committee chair, with endorse
 </li>
 
 ## Steering Committee Members At Large
-<li>
+
  <p> Scott Lieuallen </p>
  <p> Tara Gallagher </p>
  <p> Jodi Jacobsen Swartzfager </p>
  <p> Beth Flanagan </p>
-</li>
 
 
 ### The Questionnaire
