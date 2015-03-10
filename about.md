@@ -20,37 +20,26 @@ After a hiatus in 2010, we relaunched Bike Walk Vote. Our first action was endor
 
 As a political action committee, Bike Walk Vote goes where most non-profits cannot - directly into candidate elections. We endorse candidates and work to elect our strongest allies. While advocacy, organizing, education and lobbying are all valuable activities, the most influential action is electing the right people in the first place.
 
-### Steering Committee
+### Steering Committee Chair
 
-Bike Walk Vote is run by a volunteer steering committee representing a cross-section of skills and interests in the biking, walking, and transit community.
+We're anchored, organized, and run by our steering committee chair, with endorsements collectively decided upon by our board. 
 
 <ul id="steering">
 <li>
   <h4>Lisa Marie White </h4>
-  <p> _Chair_ </p>
-  <p> An RN with backgrounds in Journalism, Public Relations, Fundraising, and Marketing, community engagment and activation are Lisa’s forte. A bike, pedestrian, transit, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities while expanding equity.
+  <p> Chair </p>
+  <p> Community engagment and activation are Lisa’s forte. A bike, pedestrian, transit, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities, expands equity, and improves safety for all road users.
      Outside of BWV, you can find Lisa over-volunteering at a plethora of local non-profits, attending forums and public hearings, enjoying the Oregon wilderness, or inside absorbing one of three books on constant rotation.</p>
 </li>
-<li>
-<h4> Scott Lieuallen </h4>
-<p> Scott has been riding bikes since he was 4 and considers them almost magical. Working with Peter Welte and Evan Manvel, he helped revive the Bike Walk Vote PAC that Evan first started several years ago. "I want to keep working toward a future where riding a bike and walking are safe and convenient options for people of all ages no matter where they live." </p>
-</li>
-<li>
-  <h4>Tara Gallagher</h4>
-  <p>Tara moved to Portland in 2007 and immediately bought a bicycle. While attending law school at Lewis & Clark, she became a transportation advocate fighting for better and safer routes up the west hills. She looks forward to the day when biking is the norm and every kid has a safe route to school.</p>
-</li>
-<li>
-  <h4>Jodi Jacobson-Swartfager</h4>
-  <p>A Spokane native, Jodi moved to Portland in 2000 and immediately fell in love with Portland's bike scene.
-      She's currently enrolled in Portland State University's Masters of Urban and Regional Planning program.
-      She can't wait to see the world covered with bike lanes.</p>
-</li>
-<li>
-<h4> Beth Flanagan </h4>
-<p> Beth has a passion for design and legs of steel. Seriously, if Bike Walk Vote had a cyclocross team, we'd make her our Captain. When not racing or working with us, you can find her helping out at groups like OLCV and 1000 Friends of Oregon.</p>
-</li>
-</ul>
 
+## Steering Committee Members At Large
+<li>
+ <h4> Scott Lieuallen </h4>
+ <h4> Tara Gallagher </h4>
+ <h4> Sarah Steinberg </h4>
+ <h4> Ruth Christiansen </h4>
+ <h4> Jeffery Moore </h4>
+</li>
 
 
 ### The Questionnaire
