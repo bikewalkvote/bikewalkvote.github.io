@@ -32,7 +32,7 @@ We're anchored, organized, and run by our steering committee chair, with endorse
      Outside of BWV, you can find Lisa over-volunteering at a plethora of local non-profits, attending forums and public hearings, enjoying the Oregon wilderness, or inside absorbing one of three books on constant rotation.</p>
 </li>
 
-## Steering Committee Members At Large
+# Board Members At Large
 
  <p> Scott Lieuallen </p>
  <p> Tara Gallagher </p>
