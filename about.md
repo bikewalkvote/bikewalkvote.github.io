@@ -20,25 +20,6 @@ After a hiatus in 2010, we relaunched Bike Walk Vote. Our first action was endor
 
 As a political action committee, Bike Walk Vote goes where most non-profits cannot - directly into candidate elections. We endorse candidates and work to elect our strongest allies. While advocacy, organizing, education and lobbying are all valuable activities, the most influential action is electing the right people in the first place.
 
-### Steering Committee Chair
-
-We're anchored, organized, and run by our steering committee chair, with endorsements collectively decided upon by our board. 
-
-<ul id="steering">
-<li>
-  <h4>Lisa Marie White </h4>
-  <p> Chair </p>
-  <p> Community engagment and activation are Lisa’s forte. A bike, pedestrian, transit, and sometimes skateboard commuter, Lisa is passionate about creating infrastructure that unites communities, expands equity, and improves safety for all road users.
-     Outside of BWV, you can find Lisa enjoying the Oregon wilderness, studying connections between the built environment and health, or inside absorbing one of three books on constant rotation.</p>
-</li>
-
-<h4> Board Members At Large </h4>
-
- <p> Scott Lieuallen </p>
- <p> Tara Gallagher </p>
- <p> Jodi Jacobsen Swartzfager </p>
- <p> Beth Flanagan </p>
-
 
 ### The Questionnaire
 
