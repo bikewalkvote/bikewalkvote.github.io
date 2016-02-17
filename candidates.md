@@ -22,5 +22,10 @@ we should consider or have questions you'd like us to ask,
 #####5. Arterials need sidewalks for safe access to transit. Portland has significant gaps in this network which need tailored solutions in differing areas of Portland. Many of these gaps occur in neighborhoods that rely heavily on transit and require a significant amount of walking to reach nearby stops. What are your plans for sidewalk gaps, especially with regard to transit accessibility and equity in the outer neighborhoods?
 #####6. Do you have any specific accomplishments improving biking, walking and transit in Oregon or other places?
 #####7. What makes you a viable candidate?
+#####8. We know that in order to make it easy for people in our region to meet their daily transportation needs by walking and riding bikes, they require frequent and reliable transit service. What ideas are you willing to support to increase funding for transit operations?
+
+###Candidates: [Please complete survey here:](http://goo.gl/forms/wnwj1evM6p)
+
+
 
 
