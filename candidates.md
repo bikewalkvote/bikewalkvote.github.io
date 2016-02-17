@@ -24,7 +24,7 @@ we should consider or have questions you'd like us to ask,
 #####7. What makes you a viable candidate?
 #####8. We know that in order to make it easy for people in our region to meet their daily transportation needs by walking and riding bikes, they require frequent and reliable transit service. What ideas are you willing to support to increase funding for transit operations?
 
-###Candidates: [Please complete survey here:](http://goo.gl/forms/wnwj1evM6p)
+####Candidates: [Please complete survey here.](http://goo.gl/forms/wnwj1evM6p)
 
 
 
