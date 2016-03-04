@@ -10,7 +10,7 @@ Bike Walk Vote PAC makes endorsements based on answers to written
 questionnaires, a review of public documents and forums, personal knowledge
 and experience, and interviews as necessary.  If there is a candidate you think
 we should consider or have questions you'd like us to ask,
-[let us know](mailto:team@bikewalkvote.org?subject=Endorsement Process).
+[let us know](mailto:bikewalkvote@gmail.com?subject=Endorsement Process).
 
 
 ## Candidate Questionnaire for 2016

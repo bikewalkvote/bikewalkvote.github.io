@@ -25,4 +25,4 @@ As a political action committee, Bike Walk Vote goes where most non-profits cann
 
 We continually work to have our questionnaires inform candidates about the most current issues in the bike, walk, and transit communities. Each race may have a different questionnaire, which helps inform our endorsement decisions. We also sometimes supplement written questionnaires with in-person interviews.
 
-Have a question you'd love to see answered? <a href="mailto:team@bikewalkvote.org?subject='Suggested Question'">Email us</a> and let us know.
+Have a question you'd love to see answered? <a href="mailto:bikewalkvote@gmail.com?subject='Suggested Question'">Email us</a> and let us know.
