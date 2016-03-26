@@ -1,1 +1,10 @@
 _site
+
+# Ignore RVM files. For info on RVM, checkout https://rvm.io
+.ruby-version
+.ruby-gemset
+
+# Ignore temp files
+*.swp
+*.swo
+DS_Store
