@@ -4,14 +4,16 @@ layout: default
 
 <h2 data-image="/images/candidates/{{page.name | downcase | replace:' ','-'}}.jpeg"
     class="{{page.status}}">
-  {{ page.name }}
+    <span>
+      {{ page.name }}
+    </span>
 </h2>
 
 {{ content }}
 
 {% for question in site.data.questionnaire.questions %}
   {% assign question_title = question[0] %}
-  <div class="question">{{question[1]}}</div>
+  <div class="question"><p>{{question[1]}}</p></div>
   {% if page.questionnaire_answers[question_title] == empty or page.questionnaire_answers[question_title] == "" or page.questionnaire_answers[question_title] == nil %}
     <div class="answer">
       [No response provided]
@@ -23,3 +25,4 @@ layout: default
   {% endif %}
 {% endfor %}
 
+<script src='{{ site.url }}/assets/js/bg-img-data-attr.js' type='text/javascript'></script>
