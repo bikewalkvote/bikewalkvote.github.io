@@ -6,6 +6,11 @@ questionnaire_answers:
 - safety:
 - visionZero:
 - barriers:
+- transportationCosts:
+- sidewalks:
+- accomplishments:
+- viability:
+- transitFunding:
 questionnaire_audio:
 ---
 
