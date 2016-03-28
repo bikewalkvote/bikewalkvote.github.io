@@ -14,16 +14,16 @@ layout: default
 {% for office in offices %}
   <h2>{{ office }}</h2>
   {% for race in site.data.races %}
-    {% if race.office == office %}
-      <p>{{ race.description | markdownify }}</p>
+    {% if race.office == office and race.description != "" and race.description != nil %}
+      <p>{{ race.description }}</p>
     {% endif %}
   {% endfor %}
 
   {% for endorsement in site.endorsements %}
-    {% if endorsement.status == "endorsed" %}
-    <div class="endorsed">
-      <a href="{{ endorsement.url }}">{{ endorsement.name }}</a>
-    </div>
+    {% if endorsement.office == office and endorsement.status == "endorsed" %}
+      <div class="endorsed">
+        <a href="{{ endorsement.url }}">{{ endorsement.name }}</a>
+      </div>
     {% endif %}
   {% endfor %}
 

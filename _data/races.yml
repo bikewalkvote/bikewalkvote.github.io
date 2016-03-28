@@ -1,26 +1,24 @@
 - office: Portland Mayor
-  description: |
+  description: 
     Add a description of the importance of each race into
     `_data/races.yml`. Just something brief is fine.
-
-    You can break it into multiple paragraphs if you wish.
 - office: City Commissioner Seat 1
-  description: |
+  description: 
 - office: City Commissioner Seat 4
-  description: |
+  description: 
 - office: Metro District 3
-  description: |
+  description: 
 - office: Metro District 5
-  description: |
+  description: 
 - office: Metro District 6
-  description: |
+  description: 
 - office: Oregon Governor
-  description: |
+  description: 
 - office: Multnomah County Commissioner District 1
-  description: |
+  description: 
 - office: Multnomah County Commissioner District 3
-  description: |
+  description: 
 - office: Multnomah County Commissioner District 4
-  description: |
+  description: 
 - office: Oregon House District 43
-  description: |
+  description: 
