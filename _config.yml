@@ -6,6 +6,10 @@ facebook_app: 441294915999028
 google_analytics: UA-27483955-1
 collections:
   endorsements:
-    defaults:
-      values:
-        layout: endorsement
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: endorsements
+    values:
+      layout: endorsement
