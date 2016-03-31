@@ -1067,3 +1067,77 @@ body #container #content ul.simple {
   width: 100%;
   height: 100%;
 }
+
+h2[data-image] {
+  height: 400px;
+  width: 100%;
+  background-image: url(attr(data-image));
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  position: relative;
+}
+
+h2[data-image]::after {
+  content: " ";
+  display: block;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(255,255,255,0.5);
+  position: absolute;
+  top: 0;
+}
+
+h2[data-image] span {
+  z-index: 1000;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  display: block;
+  text-align: center;
+  background-color: rgba(255,255,255,0.75);
+}
+
+.endorsed a {
+  background: transparent url('/images/theme/cardboard_blue-.png') repeat 0;
+  border-left: 1px solid #5776cf;
+  border-left-color: rgba(87,118,207,0.3);
+  border-bottom: 3px solid #5776cf;
+  border-bottom-color: rgba(87,118,207,0.3);
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  display: inline-block;
+  padding: 0.5em;
+  margin: 1em -.5em;
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+}
+.endorsed a:hover,
+.endorsed a:active,
+.endorsed a:focus {
+  background: #b2bcd5;
+  color: #fff;
+}
+.endorsed a::before { 
+  content: "Endorsement: ";
+  font-weight: 300;
+}
+
+@media only screen and (min-width: 601px) {
+  .endorsed a {
+    padding: 1em;
+    margin-left: -1em;
+    margin-right: -1em;
+  }
+
+  .endorsed a:hover,
+  .endorsed a:active,
+  .endorsed a:focus {
+    border-left: 1px solid #5776cf;
+    border-left-color: rgba(87,118,207,0.3);
+    border-bottom: 3px solid #5776cf;
+    border-bottom-color: rgba(87,118,207,0.3);
+  }
+}

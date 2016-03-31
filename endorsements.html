@@ -1,0 +1,47 @@
+---
+title: 2016 Endorsements
+layout: default
+---
+
+{% assign offices = "" | split:"|" %}
+
+{% for endorsement in site.endorsements %}
+  {% unless offices contains endorsement.office %}
+    {% assign offices = offices | push: endorsement.office %}
+  {% endunless %}
+{% endfor %}
+
+{% for office in offices %}
+  <h2>{{ office }}</h2>
+  {% for race in site.data.races %}
+    {% if race.office == office and race.description != "" and race.description != nil %}
+      <p>{{ race.description }}</p>
+    {% endif %}
+  {% endfor %}
+
+  {% for endorsement in site.endorsements %}
+    {% if endorsement.office == office and endorsement.status == "endorsed" %}
+      <div class="endorsed">
+        <a href="{{ endorsement.url }}">{{ endorsement.name }}</a>
+      </div>
+    {% endif %}
+  {% endfor %}
+
+  {% assign greenlighted = "" | split:"|" %}
+
+  {% for endorsement in site.endorsements %}
+    {% if endorsement.office == office and endorsement.status != "endorsed" %}
+      {% assign greenlighted = greenlighted | push: endorsement.office %}
+    {% endif %}
+  {% endfor %}
+
+  {% for endorsement in site.endorsements %}
+    {% if greenlighted.size > 0 %}
+      <ul>
+      {% if endorsement.office == office and endorsement.status != "endorsed" %}
+        <li><a href="{{ endorsement.url }}">{{ endorsement.name }}</a></li>
+      {% endif %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
