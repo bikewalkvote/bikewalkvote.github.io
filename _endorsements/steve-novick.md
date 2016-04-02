@@ -3,9 +3,9 @@ name: Steve Novick
 office: City Commissioner Seat 4
 status: endorsed
 questionnaire_answers:
-  safety: Generally, we need ODOT to come to the table. The City can't take over
-    the facilities unless they are improved to our standards. The City needs to work
-    more with advocates to put pressure on Salem. Rep. Shemia Fagan and her colleagues
+  safety: Generally, we need ODOT to come to the table. The City can't take over the
+    facilities unless they are improved to our standards. The City needs to work more
+    with advocates to put pressure on Salem. Rep. Shemia Fagan and her colleagues
     obtained $17 million for improvements to a section of outer Powell, and I serve
     on the committee overseeing those improvements; there are significant issues that
     need to be resolved, but this could be an important first step toward transfer
@@ -29,26 +29,25 @@ questionnaire_answers:
     For example, after hearing from community members I worked with PBOT to install additional diverters on Clinton which have led to a safer and more comfortable experience for all users in the road.
 
     In addition, it is now city policy to encourage protected bikeways in new development, and I have been a vocal proponent of this in our comprehensive plan discussions.
-  transportationCosts: "I plan on continuing the work of PBOT to make biking and
-    walking more accessible. Since becoming Commissioner in charge of Transportation
-    I made it a priority to get the needed revenues to fix our streets, with a clear
-    focus on improving safety. This ultimately led to the unanimous vote of Council
-    to move a gas tax to a public vote this May. Nearly half of the money raised by
-    the gas tax will go to sidewalks, safer crossings and greenways to help people
-    access biking and walking facilities. Elements of the business community argued
-    that between 75% and 100% of any revenue should go solely to street repair, but
-    I insisted that we also needed to focus on bicycle and pedestrian infrastructure.
-    The largest share of the safety investments will be in East Portland.\nOver the
-    past few years, the City has participated with Trimet and PPS to give all school
-    students free transit passes. This is important, but I would of course like to
-    see us find funding to do this for youth in all areas of the city, not just those
-    attending PPS. \n\nI have spent a good deal of my time working with local and
-    regional colleagues in planning the proposed new high capacity transit lines along
-    the Southwest Corridor and inner Powell / outer Division. One concern raised by
-    residents along the Powell-Division corridor has been that improved transit might
-    lead to gentrification and displacement. We are exploring the option of a long,
-    skinny urban renewal area along the proposed line to raise funds to land-bank
-    affordable housing."
+  transportationCosts: "I plan on continuing the work of PBOT to make biking and walking
+    more accessible. Since becoming Commissioner in charge of Transportation I made
+    it a priority to get the needed revenues to fix our streets, with a clear focus
+    on improving safety. This ultimately led to the unanimous vote of Council to move
+    a gas tax to a public vote this May. Nearly half of the money raised by the gas
+    tax will go to sidewalks, safer crossings and greenways to help people access
+    biking and walking facilities. Elements of the business community argued that
+    between 75% and 100% of any revenue should go solely to street repair, but I insisted
+    that we also needed to focus on bicycle and pedestrian infrastructure. The largest
+    share of the safety investments will be in East Portland.\nOver the past few years,
+    the City has participated with Trimet and PPS to give all school students free
+    transit passes. This is important, but I would of course like to see us find funding
+    to do this for youth in all areas of the city, not just those attending PPS. \n\nI
+    have spent a good deal of my time working with local and regional colleagues in
+    planning the proposed new high capacity transit lines along the Southwest Corridor
+    and inner Powell / outer Division. One concern raised by residents along the Powell-Division
+    corridor has been that improved transit might lead to gentrification and displacement.
+    We are exploring the option of a long, skinny urban renewal area along the proposed
+    line to raise funds to land-bank affordable housing."
   sidewalks: In my first three years in office, one thing I am most proud of is my
     ongoing effort to improve quality of and access to transit along 122d. When I
     was running in 2011-12, I often heard from people in east Portland that they needed
@@ -79,8 +78,8 @@ questionnaire_answers:
     of supporters. My campaign has been endorsed by UFCW Local 555, AFSCME Local 189,
     SEIU Locals 49 & 503, IAFF Local 43, and NW Oregon Labor Council, as well as over
     100 prominent Portlanders. You can see the full list of endorsements at www.novickforportland.org/endorsements
-  transitFunding: 'I’m looking forward to a state transportation package in 2017
-    and I will be advocating for transit investments that complement local investments
+  transitFunding: 'I’m looking forward to a state transportation package in 2017 and
+    I will be advocating for transit investments that complement local investments
     in walking and biking infrastructure. My preference is always for more progressive
     taxes, but I believe improved transit is so critical that I am willing to support
     options, such as increasing the payroll tax that funds TriMet operations, that
@@ -90,5 +89,4 @@ questionnaire_answers:
 
 questionnaire_audio:
 ---
-
-Statement.
+Commissioner Steve Novick’s record demonstrates his commitment to active transportation. He has a history of pushing for innovative local transportation funding alternatives. One thing that set Novick apart from the other candidates that we interviewed was his clear understanding of parking policy and induced transportation demand. Additionally, any of the three major mayoral candidates would support a more progressive bike/walk agenda, we believe Novick will take full advantage of this new political landscape.
