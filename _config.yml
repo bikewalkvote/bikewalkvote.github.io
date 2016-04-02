@@ -1,6 +1,6 @@
 name: Bike Walk Vote
 markdown: redcarpet
-pygments: true
+highlighter: true
 author: Bike Walk Vote Political Action Committee
 facebook_app: 441294915999028
 google_analytics: UA-27483955-1

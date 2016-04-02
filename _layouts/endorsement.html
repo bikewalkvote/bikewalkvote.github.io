@@ -20,7 +20,7 @@ layout: default
     </div>
   {% else %}
     <div class="answer">
-      {{ page.questionnaire_answers.safety | markdownify }}
+      {{ page.questionnaire_answers[question_title] | markdownify }}
     </div>
   {% endif %}
 {% endfor %}
