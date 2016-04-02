@@ -36,7 +36,7 @@ questionnaire_answers:
     and state agencies that own, maintain and improve the street and road network
     to plan and build better bike projects.  Ultimately the MTIP is only as good as
     the city, county and ODOT project proposals that come to JPACT and Metro.
-  transportationcosts: "Low income households face the greatest challenge in keeping
+  transportationCosts: "Low income households face the greatest challenge in keeping
     their combined housing-and-transportation budget within a reasonable share of
     total household income.  Both parts of that combination should be addressed by
     public investment.  \n\nI’m working to expand the supply of regulated affordable
@@ -101,11 +101,10 @@ questionnaire_answers:
     my past campaigns have shown, I’m fortunate to have many supporters who can help
     me earn the votes and resources necessary to win a contested race for this seat
     if I draw an opponent.  '
-  transitfunding: |-
+  transitFunding: |-
     Remembering the constitutional limitations on use of gas taxes and other road user fees, the best immediate opportunities lie in parking revenues (Portland applies some parking garage revenue to streetcar costs); growth in farebox revenue from increased ridership (particularly through low-cost increases in transit service frequency, reliability and coverage in high-demand areas); and state government payment of the cost of paratransit service for elderly and disabled riders who cannot use main-line transit service.  This latter reform would take a huge and growing federal mandate off the budget of TriMet and other transit agencies in Oregon and provide a significant boost to transit operating revenue for standard service.
 
     After these difficult-to-get sources, there’s the really big stuff, such as adoption of a carbon tax (although carbon taxes on vehicle fuels could only be spent on roads), sales tax or other non-road revenue the State currently doesn’t have; or persuading voters statewide to amend the constitution to allow new driving- or fuel-based fees to be allocated to transit.  Those are heavy lifts.  I support all of these approaches.
-
 questionnaire_audio:
 ---
 
