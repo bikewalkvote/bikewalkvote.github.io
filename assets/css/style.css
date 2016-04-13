@@ -622,6 +622,29 @@ body #container #content .question {
 body #container #content .question .questionTitle {
   color: #27a41d;
 }
+
+.question {
+  color: #dddddd;
+  background-color: #333333;
+  background-color: rgba(30,30,30,0.9);
+  float: left;
+  padding-left:   10px;
+  padding-right:  10px;
+  padding-bottom: 1em;
+  margin-left:   -10px;
+  margin-right:  -10px;
+  margin-top:     2em;
+}
+
+@media only screen and (min-width: 481px) {
+.question {
+    padding-left:   1em;
+    padding-right:  1em;
+    margin-left:   -1em;
+    margin-right:  -1em;
+  }
+}
+
 body #container #content .answer {
   font-size: 18px;
   font-size: 1.125rem;
