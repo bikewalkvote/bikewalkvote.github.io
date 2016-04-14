@@ -11,6 +11,27 @@ layout: default
 
 {{ content }}
 
+{% assign audio = page.questionnaire_audio %}
+{% if audio != empty or audio != "" or audio != nil or audio.size > 0 %}
+  <h2>Our interview with {{ page.name }}</h2>
+  <audio controls>
+  {% if audio.webm != empty or audio.webm != "" or audio.webm != nil %}
+      <source src="/audio/{{ audio.webm }}.webm" type="audio/webm">
+  {% endif %}
+  {% if audio.ogg != empty or audio.ogg != "" or audio.ogg != nil %}
+      <source src="/audio/{{ audio.ogg }}.ogg" type="audio/ogg">
+  {% endif %}
+  {% if audio.mp3 != empty or audio.mp3 != "" or audio.mp3 != nil %}
+      <source src="/audio/{{ audio.mp3 }}.mp3" type="audio/mpeg">
+  {% endif %}
+  {% if audio.wav != empty or audio.wav != "" or audio.wav != nil %}
+      <source src="/audio/{{ audio.wav }}.wav" type="audio/wave">
+      <source src="/audio/{{ audio.wav }}.wav" type="audio/wav">
+  {% endif %}
+  </audio>
+{% endif %}
+
+<h2>{{ page.name }}'s responses to our questionnaire</h2>
 {% for question in site.data.questionnaire.questions %}
   {% assign question_title = question[0] %}
   <div class="question"><p>{{question[1]}}</p></div>
