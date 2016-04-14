@@ -12,7 +12,7 @@ layout: default
 {{ content }}
 
 {% assign audio = page.questionnaire_audio %}
-{% if audio != empty or audio != "" or audio != nil or audio.size > 0 %}
+{% if audio != empty and audio != "" and audio != nil and audio.size > 0 %}
   <h2>Our interview with {{ page.name }}</h2>
   <audio controls>
   {% if audio.webm != empty or audio.webm != "" or audio.webm != nil %}
