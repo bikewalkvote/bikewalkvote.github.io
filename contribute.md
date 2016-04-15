@@ -17,4 +17,19 @@ We also need your volunteer time to help build our organization and elect the ca
 
 ### Donating
 
-Donations are temporarily suspended. Please check back soon.
+Bike Walk Vote is required to report donation information to the Elections Office. The information is publicly available in order to ensure campaign finance transparency as required by law. Bike Walk Vote will never use or give away this information outside of what is legally required of us as a Political Action Committee.
+
+<form action="https://www.paypal.com/cgi-bin/webscr", method="post">
+  <input name="cmd" type="hidden" value="_xclick">
+  <input name="business" type="hidden" value="bikewalkvote@gmail.com"
+  <h3>How much do you want to donate?</h3>
+  <fieldset>
+  <p>$<input name="amount" type="text" value="50">
+  <input name="no_shipping" type="hidden" value="0">
+  <input name="no_note" type="hidden" value="1">
+  <input name="currency_code" type="hidden" value="USD">
+  <input name="lc" type="hidden" value="US">
+  <input name="bn" type="hidden" value="PP-BuyNowBF">
+  <input name="return" type="hidden" value="http://bikewalkvote.org/payment-complete.html">
+  <input type="submit" value="Pay with a credit card through PayPal">
+</fieldset></form>
