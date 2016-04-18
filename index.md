@@ -53,7 +53,7 @@ Elections require money to reach voters. We need your help to get our message ou
 
 In Oregon, the first $50 per individual and $100 per couple is eligible for <a href="http://oregontaxcredit.com">Oregon’s political tax credit</a> – meaning each dollar you give comes back to you at tax time. Donations to Bike Walk Vote PAC qualify for this credit.
 
-<a href="/contribute.html">Contribute today.</a>
+<a href="https://secure.actblue.com/contribute/page/bikewalkvote">Contribute today.</a>
 
 
 ## Get Involved
