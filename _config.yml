@@ -13,3 +13,7 @@ defaults:
       type: endorsements
     values:
       layout: endorsement
+gems:
+  - jekyll-redirect-from
+whitelist:
+    - jekyll-redirect-from

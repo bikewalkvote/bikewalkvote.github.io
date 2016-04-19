@@ -1,9 +1,7 @@
 ---
-layout: default
 title: Contribute
-description: Support Bike Walk Vote
-author: Bike Walk Vote PAC
-published: true
+redirect_to:
+  - 'https://secure.actblue.com/contribute/page/bikewalkvote'
 ---
 
 ## Contribute!
