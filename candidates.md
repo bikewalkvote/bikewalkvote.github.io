@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Endorsements 2014
+title: Endorsements 2016
 ---
 Check back here each election season for Bike Walk Vote's endorsements!
 
